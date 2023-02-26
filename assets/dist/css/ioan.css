@@ -1,0 +1,43 @@
+header, section {
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar.bg-dark {
+    background-color: #2D3F4E!important;
+}
+
+.navbar h1 {
+    color: #4FB5A0;
+    font-weight: 600;
+}
+
+.navbar p {
+    color: #FFF;
+}
+
+.color-white {
+    color: #FFF;
+}
+
+.color-green {
+    color: #4FB5A0
+}
+
+.font-weight-200 {
+    font-weight: 200;
+}
+
+.font-weight-700 {
+    font-weight: 700;
+}
+
+.inline-ico {
+    position: relative;
+    top: -2px;
+}
+
+.company-my-role {
+    font-size: 24px;
+    color: #999;
+    font-weight: 400;
+}
